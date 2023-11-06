@@ -1,0 +1,37 @@
+
+
+What are the distinct "Registration_Years"?
+Distinct "Fuel Type"
+Distinct "Body type"
+Distinct "Engine"
+Distinct "Gear Box"
+Distinct "Emission Class"
+
+
+Display all records with Fuel Type of Diesel.
+How many are they?
+
+Display all records with Fuel Type of Petrol
+How many are they?
+
+Display all records with Fuel Type of "Petrol Plug-in Hybrid"
+How many are they?
+
+How many records do we have in each "Body Type" category?
+Extract all the records in each "body type" category and put them in a new csv file
+
+How many records do we have in each "Doors" category?
+Extract all the records in each "Doors" category and put them in a new csv file
+
+How many records do we have in each "Registration_Year" category?
+
+How many records do we have in each "Gearbox" category?
+
+How many records do we have in each "Engine" category?
+
+
+Plot a Bar Graph and Pie Chart for each of the following categories: Registration Year, Fuel Type, Body Type, Engine, Doors, Seats
+
+
+
+
